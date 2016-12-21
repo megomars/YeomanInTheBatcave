@@ -1,0 +1,33 @@
+{
+  "name": "generator-batcave-circles",
+  "version": "0.1.0",
+  "description": "AJLabs Batcave template #1 - originally used for inner circles",
+  "files": [
+    "app",
+    "router"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megomars/YeomanInTheBatcave.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "Yeoman",
+    "template",
+    "Batcave",
+    "AJLabs"
+  ],
+  "author": "Mohammed Haddad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/megomars/YeomanInTheBatcave/issues"
+  },
+  "homepage": "https://github.com/megomars/YeomanInTheBatcave#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}

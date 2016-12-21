@@ -6,5 +6,24 @@
 
 1. npm install -g yo
 2. npm install -g generator-webapp
-3. yo webapp
-4. yo doctor
+3. yo doctor (tells you if everything is setup correctly)
+4. yo webapp
+  (running yo webapp creates the following files and folders)
+    folders
+      - App (!!always work in the app folder)
+      - Bower_components
+      - Node_modules
+      - test (Jasmine, Chai, Mocha unit tests)
+    files
+      - bower.json
+      - gulp.js
+      - package.json
+    hidden files
+      - .babelrc
+      - .editorconfig
+      - .gitignore
+      - .bowerrc
+      - .gitattributes
+      - .yo-rc.json
+5. (back in the terminal we should run) gulp
+6. A new dist folder will be created

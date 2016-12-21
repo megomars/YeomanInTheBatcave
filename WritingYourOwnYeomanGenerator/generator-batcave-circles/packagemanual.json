@@ -1,0 +1,13 @@
+{
+  "name": "generator-batcave-circles",
+  "version": "0.1.0",
+  "description": "AJLabs Batcave template #1 - originally used for inner circles",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
